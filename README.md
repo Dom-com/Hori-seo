@@ -1,2 +1,2 @@
 # Hori-seo
-creating accessibility for HoriSEOn
+creating greater accessibility for HoriSEOn
